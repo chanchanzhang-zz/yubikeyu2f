@@ -1,0 +1,9 @@
+{
+  "trustedFacets" : [{
+    "version": { "major": 1, "minor" : 0 },
+    "ids": [
+        "https://dev-dsk-chanchaz-2b-afda9e4a.us-west-2.amazon.com:8443",
+        "https://anchorkms-beta.integ.amazon.com"
+    ]
+  }]
+}
